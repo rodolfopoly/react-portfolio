@@ -1,12 +1,8 @@
 
 # [Site]()
   
-  # Screenshot<img width="1416" alt="Screen Shot 2022-07-30 at 7 57 31 PM" src="https://user-images.githubusercontent.com/98934009/182003995-c6b5700e-5eeb-4858-b4fe-38a1a6109097.png">
-
-
-  
-
-
+  # Screenshot
+<img width="1416" alt="Screen Shot 2022-08-03 at 5 25 47 PM" src="https://user-images.githubusercontent.com/98934009/182715007-2f178198-387b-430d-abd0-f02fa94dc7db.png">
 
   
 # React Portfolio 
