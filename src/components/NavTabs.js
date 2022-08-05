@@ -25,7 +25,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                             // If it is, we set the current page to 'nav-link-active', otherwise we set it to 'nav-link'
                             className={currentPage === 'Work' ? 'nav-link active' : 'nav-link'}
                         >
-                            Home
+                            Work
                         </a>
                     </li>
                     <li>
